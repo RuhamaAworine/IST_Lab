@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IST</title>
+</head>
+<body>
+    <div>
+        <center><h1>Institute of Science and Technology (IST)</h1></center>
+    </div>
+    <div>
+        <h1>Computer Science and Engineering</h1>
+        <h2>Offered Programs</h2>
+        <ul>
+            <li>CSE</li>
+            <li>MCSE</li>
+        </ul>
+        <h2>Faculty Members</h2>
+        <table border="1">
+            <tr>
+                <th>Name</th>
+                <th>Designation</th>
+                <th>email</th>
+            </tr>
+            <tr>
+                <td>A</td>
+                <td>Proffesor</td>
+                <td>a@gmail.com</td>
+            </tr>
+              <tr>
+                <td>B</td>
+                <td>Lecturer</td>
+                <td>b@gmail.com</td>
+            </tr>
+        </table>
+    </div>
+    <hr>
+    <div>
+        <h1>ECE</h1>
+        <h2>Offered Programs</h2>
+         <ul>
+            <li>ECE</li>
+        </ul>
+        <h2>Faculty Members</h2>
+          <table border="1">
+            <tr>
+                <th>Name</th>
+                <th>Designation</th>
+                <th>email</th>
+            </tr>
+            <tr>
+                <td>A</td>
+                <td>Proffesor</td>
+                <td>a@gmail.com</td>
+            </tr>
+              <tr>
+                <td>B</td>
+                <td>Lecturer</td>
+                <td>b@gmail.com</td>
+            </tr>
+        </table>
+    </div>
+    <hr>
+    <div>
+        <h1>BBA</h1>
+        <h2>Offered Programs</h2>
+        <ul>
+            <li>BBA</li>
+            <li>MBA</li>
+        </ul>
+        <h2>Faculty Members</h2>
+        <table border="1">
+            <tr>
+            <th>Name</th>
+            <th>Designation</th>
+            <th>Email</th>
+            </tr>
+            <tr>
+                <td>A</td>
+                <td>Proffesor</td>
+                <td>a@gmail.com</td>
+            </tr>
+            <tr>
+                <td>B</td>
+                <td>Lecturer</td>
+                <td>b@gmail.com</td>
+            </tr>
+        </table>
+    </div>
+
+</body>
+</html>
